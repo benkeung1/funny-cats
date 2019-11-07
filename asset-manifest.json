@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/funny-cats/static/css/main.815d99d0.chunk.css",
+    "main.js": "/funny-cats/static/js/main.ee25065d.chunk.js",
+    "main.js.map": "/funny-cats/static/js/main.ee25065d.chunk.js.map",
+    "runtime-main.js": "/funny-cats/static/js/runtime-main.89862baa.js",
+    "runtime-main.js.map": "/funny-cats/static/js/runtime-main.89862baa.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/funny-cats/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.d84889c7.chunk.js": "/funny-cats/static/js/2.d84889c7.chunk.js",
+    "static/js/2.d84889c7.chunk.js.map": "/funny-cats/static/js/2.d84889c7.chunk.js.map",
+    "index.html": "/funny-cats/index.html",
+    "precache-manifest.a8472924c8b9be3e13222343b8e8217c.js": "/funny-cats/precache-manifest.a8472924c8b9be3e13222343b8e8217c.js",
+    "service-worker.js": "/funny-cats/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/funny-cats/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.815d99d0.chunk.css.map": "/funny-cats/static/css/main.815d99d0.chunk.css.map",
+    "static/media/App.css": "/funny-cats/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89862baa.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.d84889c7.chunk.js",
+    "static/css/main.815d99d0.chunk.css",
+    "static/js/main.ee25065d.chunk.js"
+  ]
+}
